@@ -54,6 +54,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="200" src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif"  />
 
 ###
