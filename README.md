@@ -40,7 +40,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="[https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif](https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif)"  />
+<img align="right" height="150" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif"  />
 
 ###
 
